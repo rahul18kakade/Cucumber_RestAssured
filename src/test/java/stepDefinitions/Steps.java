@@ -6,7 +6,6 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.junit.Assert;
-import org.omg.CORBA.PUBLIC_MEMBER;
 
 import java.util.List;
 import java.util.Map;
